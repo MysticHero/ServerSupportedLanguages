@@ -1,1 +1,1 @@
-# ServerSupportedLanguages
+# MysticHero - Langauges Support
